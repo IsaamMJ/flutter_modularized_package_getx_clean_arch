@@ -83,7 +83,7 @@ features/
 
    ```bash
    flutter pub get
-   ```
+   ````
 
 3. **Generate Hive type adapters:**
 
