@@ -77,7 +77,7 @@ features/
    ```bash
    git clone https://github.com/yourname/flutter_modularized_package_getx_clean_arch.git
    cd flutter_modularized_package_getx_clean_arch
-````
+    ````
 
 2. **Install dependencies:**
 
